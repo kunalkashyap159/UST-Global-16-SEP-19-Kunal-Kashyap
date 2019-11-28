@@ -1,0 +1,4 @@
+3,Adrija,10000,F
+2,Shanu,10000,M
+14,Sourav,10000,M
+15,Payal,200000,F

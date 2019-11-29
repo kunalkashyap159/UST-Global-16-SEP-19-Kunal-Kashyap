@@ -1,0 +1,4 @@
+10,Anuska,10000,F
+11,Abhinav,10000,M
+12,Kunal,100000,M
+13,Simran,20000,F

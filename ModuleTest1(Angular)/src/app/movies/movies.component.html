@@ -1,0 +1,10 @@
+<div>
+        <input type="search" name="search" id="input" class="form-control" style="width:800px; height: 80px; margin: 0 0 30px 500px;" (input)="cFun($event)" value="" required="search" title="" placeholder="Search movies name">
+    </div>
+    <div class="row">
+        <div class="col-md-4 card card-body" *ngFor ="let mov of searchMovies">
+            <img src="{{mov.Poster}}" alt="">    
+                <a href="{{mov.Website}}"></a>
+                <h4>{{mov.Title}}</h4>
+        </div>
+    </div>
